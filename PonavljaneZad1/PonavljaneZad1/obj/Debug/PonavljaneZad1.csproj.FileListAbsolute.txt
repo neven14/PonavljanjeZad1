@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\bin\Debug\PonavljaneZad1.exe.config
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\bin\Debug\PonavljaneZad1.exe
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\bin\Debug\PonavljaneZad1.pdb
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\obj\Debug\PonavljaneZad1.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\obj\Debug\PonavljaneZad1.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\obj\Debug\PonavljaneZad1.exe
+C:\Users\Gordana\source\repos\PonavljaneZad1\PonavljaneZad1\obj\Debug\PonavljaneZad1.pdb
